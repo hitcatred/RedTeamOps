@@ -1,8 +1,8 @@
-## DEF CON Red Team Village - RedTeamOps - Managing Red Team Infrastructure as a Red Teamer
+## DEF CON Red Team Village - RedTeamOps
 
 [![N|](https://hitcat.red/hitcat_logo.png)](https://hitcat.red/)
 
-Hitcat is a red team in Turkey, This repository prepared for DEF CON Red Team Village.
+Hitcat is a red team in Turkey, This repository prepared for DEF CON Red Team Village. yerine Hitcat is a red team initiative in Turkey, This repository is for DEF CON Red Team Village talk.
 
 ### It's include Terraform scripts:
   - VPC configurations
@@ -19,7 +19,7 @@ Hitcat is a red team in Turkey, This repository prepared for DEF CON Red Team Vi
 
 ### Simple Usage
 
-we used  [Terraform](https://www.terraform.io/) Terraform v0.12.28 to run scripts.
+We used  [Terraform](https://www.terraform.io/) Terraform v0.12.28 to run scripts.
 
 Deploy infrastructure
 ```sh
@@ -29,7 +29,7 @@ $ terraform plan
 $ terraform apply
 ```
 
-Destroy infrastructure...
+Destroy infrastructure
 
 ```sh
 $ terraform destroy
@@ -37,7 +37,6 @@ $ terraform destroy
 
 ### Plugins
 
-Plugins used with terraform.
 
 | Plugin | Version |
 | ------ | ------ |
