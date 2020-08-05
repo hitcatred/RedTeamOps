@@ -1,0 +1,18 @@
+apiVersion: networking.k8s.io/v1beta1
+kind: Ingress
+metadata:
+  name: metasploit
+  annotations:
+spec:
+  rules:
+  - host: metasploit.example.com
+    http:
+      paths:
+      - path: /delivery_http
+        backend:
+          serviceName: metasploit-delivery-http
+          servicePort: 8080
+      - path: /handler
+        backend:
+          serviceName: metasploit-handler
+          servicePort: 4444

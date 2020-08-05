@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: metasploit-deployment
+  labels:
+spec:
+  selector:
+    matchLabels:
+      app: metasploit-deployment
+  template:
+    metadata:
+      labels:
+        app: metasploit-deployment
+    spec:
+      containers:
+      - name: metasploit
+        image: "{{ .Values.image.name }}:{{ .Values.image.tag }}"
+        ports:
+        - containerPort: 8080
+        - containerPort: 4444
