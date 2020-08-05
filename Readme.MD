@@ -1,6 +1,5 @@
 ## DEF CON Red Team Village - RedTeamOps
 
-[![N|](https://hitcat.red/hitcat_logo.png)](https://hitcat.red/)
 
 Hitcat is a red team in Turkey, This repository prepared for DEF CON Red Team Village. yerine Hitcat is a red team initiative in Turkey, This repository is for DEF CON Red Team Village talk.
 
