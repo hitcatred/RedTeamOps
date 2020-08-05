@@ -49,7 +49,7 @@ Want to contribute? Great!
 
 ### Todos
 
- - infrastructure as codes
+ - infrastructure as codes examples
  - Other samples for Alibaba and GCP
 
 
