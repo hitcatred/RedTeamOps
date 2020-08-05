@@ -49,11 +49,11 @@ $ terraform destroy
 
 ### Development
 
-Want to contribute? Great!
+Want to contribute? Great! Send us a PR request! 
 
 ### Todos
 
- - infrastructure as codes examples
+ - Infrastructure as codes examples
  - Other samples for Alibaba and GCP
 
 
