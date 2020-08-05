@@ -1,7 +1,7 @@
 ## DEF CON Red Team Village - RedTeamOps
 
 
-### It's included Terraform scripts:
+### Included Terraform scripts:
   - VPC configurations
   - ELB configurations
   - EC2/Worker configurations
