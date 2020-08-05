@@ -1,9 +1,7 @@
 ## DEF CON Red Team Village - RedTeamOps
 
 
-Hitcat is a red team in Turkey, This repository prepared for DEF CON Red Team Village. yerine Hitcat is a red team initiative in Turkey, This repository is for DEF CON Red Team Village talk.
-
-### It's include Terraform scripts:
+### It's included Terraform scripts:
   - VPC configurations
   - ELB configurations
   - EC2/Worker configurations
@@ -12,11 +10,11 @@ Hitcat is a red team in Turkey, This repository prepared for DEF CON Red Team Vi
   - Nginix-ingress docker deployment
 
 
-### Simple Topology
+### Topology
 
 [![N|](https://hitcat.red/topology.png)](https://hitcat.red/)
 
-### Simple Usage
+### Usage
 
 We used  [Terraform](https://www.terraform.io/) Terraform v0.12.28 to run scripts.
 
