@@ -32,7 +32,7 @@ $ terraform destroy
 
 ### Plugins
 
-Dillinger is currently extended with the following plugins. Instructions on how to use them in your own application are linked below.
+Plugins used with terraform.
 
 | Plugin | Version |
 | ------ | ------ |
