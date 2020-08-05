@@ -12,6 +12,11 @@ Hitcat is a red team in Turkey, This repository prepared for DEF CON Red Team Vi
   - Metasploit docker deployment
   - Nginix-ingress docker deployment
 
+
+### Simple Topology
+
+[![N|](https://hitcat.red/topology.png)](https://hitcat.red/)
+
 ### Simple Usage
 
 we used  [Terraform](https://www.terraform.io/) Terraform v0.12.28 to run scripts.
