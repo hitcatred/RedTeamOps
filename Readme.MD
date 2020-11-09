@@ -12,7 +12,7 @@
 
 ### Topology
 
-[![N|](https://hitcat.red/assests/img/topology.png)](https://hitcat.red/)
+[![N|](https://hitcat.red/assets/img/topology.png)](https://hitcat.red/)
 
 ### Usage
 
