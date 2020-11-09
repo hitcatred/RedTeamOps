@@ -1,4 +1,4 @@
-## DEF CON Red Team Village - RedTeamOps
+## Red Team Infrastructure Automation
 
 
 ### Included Terraform scripts:
@@ -12,7 +12,7 @@
 
 ### Topology
 
-[![N|](https://hitcat.red/topology.png)](https://hitcat.red/)
+[![N|](https://hitcat.red/assests/img/topology.png)](https://hitcat.red/)
 
 ### Usage
 
